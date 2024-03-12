@@ -1,0 +1,19 @@
+.custom-navbar-pink {
+    background-color: purple;
+}
+
+.custom-navbar-pink .navbar-brand,
+.custom-navbar-pink .nav-link {
+    color: white;
+}
+
+.cart-icon {
+    width: 30px;
+    height: auto;
+}
+  
+.number-cart{
+    color: white; 
+    padding-left: 1rem;
+    font-weight: 900;
+}
